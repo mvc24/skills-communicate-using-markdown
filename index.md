@@ -11,3 +11,11 @@ And now some code:
 ``` javascript
 let variable = 'This is bananas!';
 ```
+And now a task list, how exciting. Just like the piece I'm listening to right now.
+
+- [ ] Check the composer of the piece.
+- [ ] Check if the bagpipes are fun.
+- [ ] Check if using accents as any kind of quotation marks seems like heresy.
+- [ ] Check if you want to go to bed soon.
+
+I think these are enough tasks. 
